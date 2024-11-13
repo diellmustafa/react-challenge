@@ -1,0 +1,11 @@
+[
+    {
+        "id": "1",
+        "name": "Diell phone",
+        "category": "phone",
+        "price": 20000,
+        "stock": "No",
+        "image": "foto iphone.jpg",
+        "description": "telefoni ma i fort nbot"
+    }
+]
