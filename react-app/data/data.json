@@ -7,5 +7,14 @@
         "stock": "No",
         "image": "foto iphone.jpg",
         "description": "telefoni ma i fort nbot"
+    },
+    {
+        "id": "2",
+        "name": "Alt Diell phone",
+        "category": " phone",
+        "price": 10000,
+        "stock": "Yes",
+        "image": "foto iphone.jpg",
+        "description": "telefoni i dyt ma i fort nbot"
     }
 ]
